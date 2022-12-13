@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "TROLL",
+    "icon": {
+      "value": "Blocks.CREEPER_WALL_HEAD"
+    },
+    "showSearch": false
+  }
+}
